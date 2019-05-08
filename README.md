@@ -12,4 +12,4 @@ Provides flavour, effect, and medical use data for user-entered cannabis strain
 Calls df_strain_me.csv
 
 # df_strain_me.csv
-Data webscraped from Leafly.com, Feb 2019.
+Cannabis strain data webscraped from Leafly.com, Feb 2019.
